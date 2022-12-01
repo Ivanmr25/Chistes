@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+.bg-nav{
+    background-color: #1E88E5;
+}
+.container-fluid{
+    box-shadow: black   ;
+}
+.estrechar{
+    width: 50%;
+    margin: 0 auto;
+}
+.boton{
+    border: none;
+}
+.gris{
+    background-color:#546E7A;
+}
